@@ -18,7 +18,7 @@
 <h2>My Project Gallery</h2>
 
 <div>
-  <img src="https://www.altexsoft.com/media/2019/06/word-image-48.png" alt=" **As an experienced Data Engineer, I have developed a deep expertise in creating and optimizing ELT pipelines, which are essential for modern data-driven decision-making.** The visualization you see represents a sophisticated ELT process I have implemented across various projects.
+  <img src="https://www.altexsoft.com/media/2019/06/word-image-48.png" alt="As an experienced Data Engineer, I have developed a deep expertise in creating and optimizing ELT pipelines, which are essential for modern data-driven decision-making. The visualization you see represents a sophisticated ELT process I have implemented across various projects.
 
 **Extract Phase:** I have extensive experience in extracting data from diverse sources. My expertise includes handling structured databases like SQL, as well as unstructured data sources such as logs or streaming data. I am adept at ensuring the integrity and consistency of data during the extract phase, employing advanced methods to capture data in real-time and batch modes.
 
@@ -28,16 +28,5 @@
 
 **Analysis and Business Impact:** Beyond the technical aspects of ELT, I understand the critical importance of the data being primed for analysis. I've enabled business intelligence teams to perform sophisticated analytics, leading to actionable insights that drive strategic decisions. My contribution to the analytical process has been pivotal in uncovering trends, optimizing operations, and ultimately enhancing profitability.
 
-I am a seasoned Data Engineer with expertise in architecting ELT pipelines that support data-driven decision-making. My experience spans a range of ETL tools including Talend, Informatica, Apache NiFi, and cloud-native services like AWS Glue, Azure Data Factory, and Google Cloud Dataflow. I excel in extracting diverse datasets, loading them efficiently into data warehouses such as Snowflake and Redshift, and transforming them using SQL and Python for optimized analysis. My work enables seamless data availability, empowering teams to unlock actionable insights and drive business success." style="width:100%;max-width:300px">
-  <p><strong>Description:</strong> Brief description of Image 1.</p>
-</div>
-
-<div>
-  <img src="URL-to-your-image2.jpg" alt="Description of Image 2" style="width:100%;max-width:300px">
-  <p><strong>Description:</strong> Brief description of Image 2.</p>
-</div>
-
-<div>
-  <img src="URL-to-your-image3.jpg" alt="Description of Image 3" style="width:100%;max-width:300px">
-  <p><strong>Description:</strong> Brief description of Image 3.</p>
+**I am a seasoned Data Engineer with expertise in architecting ELT pipelines that support data-driven decision-making. My experience spans a range of ETL tools including Talend, Informatica, Apache NiFi, and cloud-native services like AWS Glue, Azure Data Factory, and Google Cloud Dataflow. I excel in extracting diverse datasets, loading them efficiently into data warehouses such as Snowflake and Redshift, and transforming them using SQL and Python for optimized analysis. My work enables seamless data availability, empowering teams to unlock actionable insights and drive business success.**"
 </div>
