@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=udayavaddi&label=Profile%20views&color=0e75b6&style=flat" alt="udayavaddi" /> </p>
 
-- 📝 I regularly write articles on [Simplify complex data engineering concepts, Data Architectures](Simplify complex data engineering concepts, Data Architectures)
+- 📝 I regularly write articles on Simplify complex data engineering concepts, Data Architectures
 
 - 💬 Ask me about **Designing scalable and efficient data pipelines in cloud environments, Challenges of integrating real-time data streams, complex data engineering concepts, Deployment of machine learning models, AI-driven analytics**
 
