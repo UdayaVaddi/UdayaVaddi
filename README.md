@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Udaya Sri Satya Sai Vaddi</h1>
 <h3 align="center">Expert in Building Scalable Data Solutions</h3>
 
-<img align="right" alt="coding"width="400" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1280x720.jpg">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=udayavaddi&label=Profile%20views&color=0e75b6&style=flat" alt="udayavaddi" /> </p>
 
