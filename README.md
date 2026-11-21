@@ -14,7 +14,7 @@
 
 💬 Ask me about model development, feature engineering, production ML pipelines, time-series forecasting, model serving, cloud-based data systems, and AI-driven analytics.
 
-📫 How to reach me uday@uconn.edu
+📫 How to reach me vaddiudaya77@gmail.com
 
 ⚡ Fun fact Bananas are berries, but strawberries aren't!
 
